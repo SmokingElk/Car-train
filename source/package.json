@@ -1,0 +1,15 @@
+{
+  "name": "AI drive",
+  "version": "1.0.0",
+  "description": "Creating a neural network for driving",
+  "main": "resources/init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smoking_Elk",
+  "license": "ISC",
+
+  "window": {
+    "icon": "icon.png"
+  }
+}

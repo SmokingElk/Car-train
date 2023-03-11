@@ -1,0 +1,3 @@
+const fonts = {
+	main: "Roboto",
+};
